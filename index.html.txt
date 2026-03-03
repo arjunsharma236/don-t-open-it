@@ -105,9 +105,9 @@ I love you more than words can say.
 <div id="countdown"></div>
 
 <div class="slideshow">
-<img src="https://picsum.photos/500/300?1">
-<img src="https://picsum.photos/500/300?2">
-<img src="https://picsum.photos/500/300?3">
+<img src="photo1.jpg">
+<img src="photo2.jpg">
+<img src="photo3.jpg">
 </div>
 
 <h3>Will you forgive me? 🥺</h3>
@@ -195,3 +195,4 @@ slides[index].style.display="block";
 
 </body>
 </html>
+
